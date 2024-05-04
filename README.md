@@ -1,5 +1,5 @@
 # my-project
-
+This project is a local page based on the Vue3 framework, created as a technical test for Moustache Republic. The author spent approximately 4 hours on this project. Due to time constraints, some stylistic details and mobile responsive styles were not perfectly adjusted.
 ## Project setup
 ```
 npm install
